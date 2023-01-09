@@ -1,1 +1,4 @@
 before committing
+
+A
+B
