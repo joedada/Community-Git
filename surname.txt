@@ -1,3 +1,7 @@
 first
 before committing
 after committing
+
+
+redo
+B
