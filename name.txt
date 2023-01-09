@@ -9,4 +9,5 @@ modified...
 one
 two	
 three
-before committing
+before committing.........
+after committing
